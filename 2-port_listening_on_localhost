@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# Listens on TCP port 98 and prints whatever text a client sends
+nc -l -p 98
