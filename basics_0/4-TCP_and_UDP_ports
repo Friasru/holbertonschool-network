@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# Shows listening ports with the PID and program name using each socket
 netstat -pnl
